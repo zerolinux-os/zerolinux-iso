@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="kiro"
-iso_label="kiro-v25.06.19.01"
-iso_publisher="kiro"
-iso_application="Kiro Live/Rescue CD"
+iso_name="buildra"
+iso_label="buildra-v25.06.19.01"
+iso_publisher="buildra"
+iso_application="buildra Live/Rescue CD"
 iso_version="v25.06.19.01"
 install_dir="arch"
 buildmodes=('iso')
