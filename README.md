@@ -19,6 +19,6 @@
 - `archiso` package
 - Basic familiarity with Bash scripting and package management
 - Knowledge how to build ISOs - https://www.arcolinuxiso.com/a-comprehensive-guide-to-iso-building/
-- Knowledge you can find in this video
+- The ULTIMATE video to build your ISO is here
 
 [![Buildra Demo](https://img.youtube.com/vi/3jdKH6bLgUE/0.jpg)](https://youtu.be/3jdKH6bLgUE)
