@@ -119,7 +119,7 @@ echo
 
 	desktop="xfce"
 
-	buildraVersion='v25.06.19.02'
+	buildraVersion='v25.06.19.01'
 
 	isoLabel='buildra-'$buildraVersion'-x86_64.iso'
 
