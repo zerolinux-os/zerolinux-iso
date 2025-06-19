@@ -377,8 +377,8 @@ yay-git
 ###########################################################################
 
 calamares
-kiro-calamares-config
-kiro-system-installation
+buildra-calamares-config
+buildra-system-installation
 
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
@@ -467,7 +467,7 @@ edu-shells-git
 #edu-surfn-numixs-blue-git
 edu-variety-config-git
 #edu-vimix-dark-tela-git
-edu-xfce-git
+#edu-xfce-git
 flameshot-git
 gitahead-git
 hardcode-fixer-git
@@ -508,3 +508,9 @@ xorg-xsetroot
 ###########################################################################
 
 #kiro-dummy-git
+
+###########################################################################
+####                           BUILDRA REPO
+###########################################################################
+
+buildra-xfce-git
