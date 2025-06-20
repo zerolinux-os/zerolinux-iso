@@ -281,7 +281,7 @@ ttf-ubuntu-font-family
 
 ###themes
 
-kvantum-qt5
+#kvantum-qt5
 
 ###utilities
 arandr
@@ -315,7 +315,7 @@ pkgfile
 playerctl
 polkit
 polkit-gnome
-qt5ct
+#qt5ct
 ripgrep
 simple-scan
 #telegram-desktop
@@ -395,8 +395,8 @@ sddm-git
 ####                           DESKTOP MANAGERS
 ###########################################################################
 
-xfce4
-xfce4-goodies
+#xfce4
+#xfce4-goodies
 
 ###########################################################################
 ####                       APPS
@@ -440,20 +440,20 @@ arc-gtk-theme
 archlinux-logout-git
 archlinux-tweak-tool-git
 #ckb-next-git
-edu-arc-dawn-git
+#edu-arc-dawn-git
 edu-arc-kde
 #edu-awesome-git
 #edu-bspwm-git
-edu-chadwm-git
+#edu-chadwm-git
 edu-dot-files-git
 edu-hblock-git
 #edu-i3-git
 #edu-leftwm-git
-edu-neo-candy-arc-git
-edu-neo-candy-arc-mint-grey-git
-edu-neo-candy-arc-mint-red-git
-edu-neo-candy-qogir-git
-edu-neo-candy-tela-git
+#edu-neo-candy-arc-git
+#edu-neo-candy-arc-mint-grey-git
+#edu-neo-candy-arc-mint-red-git
+#edu-neo-candy-qogir-git
+#edu-neo-candy-tela-git
 #edu-papirus-dark-tela-git
 #edu-papirus-dark-tela-grey-git
 #edu-plasma-keybindings-git
@@ -484,24 +484,24 @@ wttr
 ####                               NEMESIS REPO CHADWM
 ###########################################################################
 
-alacritty
-edu-chadwm-git
-autorandr
-dash
-dmenu
+#alacritty
+#edu-chadwm-git
+#autorandr
+#dash
+#dmenu
 feh
 gcc
 lolcat
 make
 picom-git
-polkit-gnome
-rofi
-sxhkd
-ttf-font-awesome
-ttf-jetbrains-mono-nerd
-ttf-meslo-nerd-font-powerlevel10k
-volumeicon
-xorg-xsetroot
+#polkit-gnome
+#rofi
+#sxhkd
+#ttf-font-awesome
+#ttf-jetbrains-mono-nerd
+#ttf-meslo-nerd-font-powerlevel10k
+#volumeicon
+#xorg-xsetroot
 
 ###########################################################################
 ####                           PERSONAL_REPO aka LOCAL REPO
@@ -513,4 +513,36 @@ xorg-xsetroot
 ####                           BUILDRA REPO
 ###########################################################################
 
-buildra-xfce-git
+#buildra-xfce-git
+
+###########################################################################
+####                           PLASMA
+###########################################################################
+
+plasma
+kde-system-meta
+ark
+breeze
+cryfs
+discover
+dolphin
+dolphin-plugins
+encfs
+ffmpegthumbs
+gocryptfs
+gwenview
+kate
+kde-gtk-config
+kdeconnect
+kdenetwork-filesharing
+ktorrent
+ocs-url
+okular
+packagekit-qt6
+partitionmanager
+spectacle
+surfn-plasma-dark-icons-git
+yakuake
+
+edu-plasma-keybindings-git
+edu-plasma-servicemenus-git

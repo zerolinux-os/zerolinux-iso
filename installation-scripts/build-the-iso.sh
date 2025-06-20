@@ -117,9 +117,9 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="xfce"
+	desktop="plasma"
 
-	buildraVersion='v25.06.19.01'
+	buildraVersion='v25.06.20.01'
 
 	isoLabel='buildra-'$buildraVersion'-x86_64.iso'
 
