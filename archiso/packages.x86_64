@@ -376,7 +376,8 @@ yay-git
 ####                               CALAMARES
 ###########################################################################
 
-calamares
+#calamares
+calamares-wayland
 buildra-calamares-config
 buildra-system-installation
 
