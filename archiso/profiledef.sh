@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="buildra"
-iso_label="buildra-v25.07.20.01"
-iso_publisher="buildra"
-iso_application="buildra Live/Rescue CD"
+iso_name="zerolinux"
+iso_label="zerolinux-v25.07.20.01"
+iso_publisher="zerolinux"
+iso_application="zerolinux Live/Rescue CD"
 iso_version="v25.07.20.01"
 install_dir="arch"
 buildmodes=('iso')

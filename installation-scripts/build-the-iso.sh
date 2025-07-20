@@ -119,14 +119,14 @@ echo
 
 	desktop="plasma"
 
-	buildraVersion='v25.07.20.01'
+	zerolinuxVersion='v25.07.20.01'
 
-	isoLabel='buildra-'$buildraVersion'-x86_64.iso'
+	isoLabel='zerolinux-'$zerolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 83-1"
-	buildFolder=$HOME"/buildra-build"
-	outFolder=$HOME"/buildra-Out"
+	buildFolder=$HOME"/zerolinux-build"
+	outFolder=$HOME"/zerolinux-Out"
 
 	# If you want to add packages from the chaotics-aur repo then
 	# change the variable to true and add the package names
@@ -244,7 +244,7 @@ echo
 	tput sgr0
 	echo "################################################################## "
 	echo "Building the desktop                   : "$desktop
-	echo "Building version                       : "$buildraVersion
+	echo "Building version                       : "$zerolinuxVersion
 	echo "Iso label                              : "$isoLabel
 	echo "Build folder                           : "$buildFolder
 	echo "Out folder                             : "$outFolder
